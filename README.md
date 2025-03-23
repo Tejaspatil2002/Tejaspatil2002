@@ -63,7 +63,6 @@
 I enjoy building **dashboards**, creating **predictive models**, and experimenting with **API** to derive actionable insights. 🤖  
 
 ---
-### 📊 Data Analysis & Visualization  
 
 ### 📊 Data Analysis & Visualization  
 <div>
