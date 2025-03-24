@@ -5,7 +5,7 @@
 
 
 ---
-<img align ="right" alt = "coding" width="400" src="https://datascientest.com/en/files/2024/03/Citizen_Data_Scientist-1024x585-1.jpg">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/6c536b09-b1cb-4d2c-a15b-6949d3f1e3c6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaspatil2002&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspatil2002" /> </p>
 
@@ -18,6 +18,8 @@
 - 📫 How to reach me **patiltejas1565@gmail.com**
 
 </br>
+</br>
+
 
 ---
 
